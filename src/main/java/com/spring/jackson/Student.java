@@ -1,4 +1,4 @@
-package com.spring.demo;
+package com.spring.jackson;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
